@@ -28,4 +28,4 @@ NA
 3. https://medium.com/analytics-vidhya/haar-cascade-face-identification-aa4b8bc79478
 
 ###### Version [pre-production] v1.0-beta
-###### Next: v1.0
+###### Next: v1.0-beta.1
