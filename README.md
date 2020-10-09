@@ -1,5 +1,6 @@
 # ImageProcessingBasedFireDetection
-This project is made to accurtely detect, classify, alert and extinguish fire in a buiding/room with 24x7 CCTV/Webcam survelliance and no use of sensors.
+This project is made to accurately detect, classify, alert and extinguish fire in a buiding/room with 24x7 CCTV/Webcam survelliance and without using sensors.
+This is our final year project for the session 2019-20; TMSL, Kolkata.
 ## Objective
 To detect and classify fire flames wrt background using HAAR classifier in python3 and use send the signal to arduino uC for controlling peripherals used for the purpose of alerting and extinguishing the fire.
 ## Pre-requisites
@@ -14,12 +15,17 @@ To detect and classify fire flames wrt background using HAAR classifier in pytho
 9. Relay 5V x1
 10. 16x2 LCD display x1
 11. Buzzer x1
-###### Dependencies
+###### Dependencies [as of 10-10-2020]
 1. OpenCV-python>=4.2.0.34
 2. Pyserial>=3.4
 
 ## Future proposals
 NA
 
-###### Version v1.0-beta
+## References
+https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
+http://amin-ahmadi.com/cascade-trainer-gui/ (Cascade trainer gui app)
+https://medium.com/analytics-vidhya/haar-cascade-face-identification-aa4b8bc79478
+
+###### Version [pre-production] v1.0-beta
 ###### Next: v1.0
