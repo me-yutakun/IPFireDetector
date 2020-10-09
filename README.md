@@ -15,11 +15,11 @@ To detect and classify fire flames wrt background using HAAR classifier in pytho
 9. Relay 5V x1
 10. 16x2 LCD display x1
 11. Buzzer x1
-###### Dependencies [as of 10-10-2020]
+###### Dependencies [as on 10-10-2020]
 1. OpenCV-python>=4.2.0.34
 2. Pyserial>=3.4
 
-## Future proposals
+## Future proposals [as on 10-10-2020]
 NA
 
 ## References
