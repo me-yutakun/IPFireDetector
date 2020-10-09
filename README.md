@@ -23,9 +23,9 @@ To detect and classify fire flames wrt background using HAAR classifier in pytho
 NA
 
 ## References
-https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
-http://amin-ahmadi.com/cascade-trainer-gui/ (Cascade trainer gui app)
-https://medium.com/analytics-vidhya/haar-cascade-face-identification-aa4b8bc79478
+1. https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
+2. http://amin-ahmadi.com/cascade-trainer-gui/ (Cascade trainer gui app)
+3. https://medium.com/analytics-vidhya/haar-cascade-face-identification-aa4b8bc79478
 
 ###### Version [pre-production] v1.0-beta
 ###### Next: v1.0
